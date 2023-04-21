@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(40, 40, 40);  
+}
+.logo_candado{
+    width: 35px;
+    height: 35px;
+    
+}
+.titulo{
+    
+    padding: 18px 0 0 18px;
+    color:red;
+    font-size: 30px;
+    font-family: 'Eurostile', sans-serif;  
+}
+
+form label{
+    margin: 60px 0 15px 50px;
+    display: block;
+    color: red;
+    font-size: 25px;
+    font-family: 'Eurostile', sans-serif;
+    
+}
+form textarea{
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.1); 
+    border-radius: 10px;
+    font-size: 18px;
+    margin: 0 0 0 50px;
+    color:red ;
+    background-color: rgb(45, 45, 45);
+    border: none;
+    outline: none;
+    resize: none;
+}
